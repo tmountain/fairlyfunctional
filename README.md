@@ -1,0 +1,1 @@
+## fairlyfunctional.io blog repo

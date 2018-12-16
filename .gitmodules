@@ -1,0 +1,3 @@
+[submodule "ff/themes/techlog"]
+	path = ff/themes/techlog
+	url = https://github.com/mazgi/hugo-theme-techlog-simple.git

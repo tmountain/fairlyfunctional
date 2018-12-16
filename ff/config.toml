@@ -1,0 +1,25 @@
+baseURL = "https://fairlyfunctional.io/"
+languageCode = "en-us"
+title = "Blog :: FairlyFunctional"
+theme = "techlog"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+enableEmoji = true
+pygmentsCodeFences = true
+pygmentsStyle = "friendly"
+enableGitInfo = true
+enableRobotsTXT = true
+# googleAnalytics = "UA-00000000-1"
+
+[taxonomies]
+category = "programming"
+tag = "purescript, haskell, clojure"
+author = "Travis Whitton"
+
+[languages]
+[languages.en]
+weight = 1
+languageName = "English"
+
+[params.sns]
+github = "tmountain"
