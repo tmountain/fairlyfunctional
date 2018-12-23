@@ -1,3 +1,6 @@
 [submodule "ff/themes/techlog"]
 	path = ff/themes/techlog
 	url = https://github.com/mazgi/hugo-theme-techlog-simple.git
+[submodule "ff/themes/engimo"]
+	path = ff/themes/engimo
+	url = https://github.com/achary/engimo.git
