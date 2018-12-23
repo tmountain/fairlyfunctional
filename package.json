@@ -1,0 +1,8 @@
+{
+  "name": "FairlyFunctional.io",
+  "version": "1.0.0",
+  "description": "A tech blog",
+  "devDependencies": {
+    "firebase-tools": "^6.2.2"
+  }
+}
