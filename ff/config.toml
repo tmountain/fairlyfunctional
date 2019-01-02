@@ -115,7 +115,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/tmountain/ff"
+url = "https://github.com/tmountain/fairlyfunctional"
 
 [blackfriday]
 hrefTargetBlank = true
