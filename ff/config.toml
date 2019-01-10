@@ -6,7 +6,7 @@ copyright = ""
 theme = "engimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-132232072-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
